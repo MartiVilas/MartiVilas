@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @MartiVilas
-- 👀 I’m interested in basketball
-- 🌱 I’m currently learning to develop web pages
+- 🌱 I’m currently learning to develop websites
