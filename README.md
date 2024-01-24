@@ -5,7 +5,7 @@
 [![Follow on GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MartiVilas)
 
 <a href="https://wakatime.com/@018d3ac7-8f39-41cb-b07d-7f66ac7c6f40">
-  <img align="right" src="https://wakatime.com/badge/user/018d3241-0f81-4d3f-b74f-e65b6da873ea.svg?style=flat-square" alt="wakatime badge" />
+  <img align="right" src="https://wakatime.com/badge/user/018d3ac7-8f39-41cb-b07d-7f66ac7c6f40.svg" alt="wakatime badge" />
 </a>
 
 
