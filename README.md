@@ -57,6 +57,11 @@ Usando
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartiVilas&layout=compact&bg_color=00000000&border_color=22222288&text_color=bbb" alt="Top Langs card" />
 </picture>
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=65&color=gradient&text=%20%20%20%20%20%20&fontColor=c500da&section=footer"/>
+</p>
+
 ---
 
 ### ✍️ You can find me on! 
