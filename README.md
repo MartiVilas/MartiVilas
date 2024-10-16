@@ -59,7 +59,7 @@ Usando
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=65&color=gradient&text=%20%20%20%20%20%20&fontColor=c500da&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=65&color=gradient&text=%20%20%20%20%20%20&section=footer"/>
 </p>
 
 ---
